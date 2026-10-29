@@ -54,6 +54,14 @@ Add screenshots or a GIF demonstrating the project.
 
    <img width="1710" height="1198" alt="image" src="https://github.com/user-attachments/assets/8edeaf7d-8cc3-44e5-a4ae-ddd89a64ac45" />
 
+2. Learned JSON objects and methods.
+
+   <img width="1907" height="1198" alt="image" src="https://github.com/user-attachments/assets/716ea524-fbb4-4621-8789-97042203a108" />
+
+3. Learned record
+
+   Record is a compact class that Java has that holds data. Already has constructors, getters, setters and toString.
+
 
 
 ## Future Improvements

@@ -54,6 +54,8 @@ Add screenshots or a GIF demonstrating the project.
 
    <img width="1710" height="1198" alt="image" src="https://github.com/user-attachments/assets/8edeaf7d-8cc3-44e5-a4ae-ddd89a64ac45" />
 
+   Put into its own class PokeApiClient.java
+
 2. Learned JSON objects and methods.
 
    <img width="1907" height="1198" alt="image" src="https://github.com/user-attachments/assets/716ea524-fbb4-4621-8789-97042203a108" />
@@ -62,6 +64,15 @@ Add screenshots or a GIF demonstrating the project.
 
    Record is a compact class that Java has that holds data. Already has constructors, getters, setters and toString.
 
+   Usage of Record in my program
+   <img width="1917" height="777" alt="image" src="https://github.com/user-attachments/assets/dec3a04f-df26-41cc-85e9-996fe8d0bf2d" />
+
+
+5. Learned Optional and how to get the URL for the Pokemon picture
+
+   Optional is a class found in Java and it is a safe way to say that we may end up with nothing. Using this can eliminate excessive use of Null and Null exceptions.
+
+   From the JSON file of a Pokemon, the URL for image is found deep in the file. You have to go to sprites -> other -> official-artwork -> front_default.
 
 
 ## Future Improvements
